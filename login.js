@@ -1,6 +1,6 @@
 // Hàm logic kiểm tra đăng nhập
 function checkLogin(username, password) {
-    if (username === 'admin' && password === '123') {
+    if (username === 'admin' && password === '789456') {
         return true;
     }
     return false;
