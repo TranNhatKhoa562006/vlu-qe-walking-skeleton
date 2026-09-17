@@ -1,1 +1,13 @@
 
+{
+  "name": "unit-test-login",
+  "version": "1.0.0",
+  "description": "Bài tập Unit Test cho form đăng nhập",
+  "main": "login.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
